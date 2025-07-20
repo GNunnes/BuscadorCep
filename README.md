@@ -76,4 +76,4 @@ Contribuições são muito bem-vindas! Sinta-se livre para abrir issues e pull r
 <br><br>
 ## 👤 Autor
 
-Gustavo N. Bezerra - [LinkedIn](www.linkedin.com/in/gustavo-nunnes) | [GitHub](https://github.com/GNunnes)
+Gustavo N. Bezerra - [LinkedIn](https://www.linkedin.com/in/gustavo-nunnes) | [GitHub](https://github.com/GNunnes)
