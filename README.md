@@ -1,11 +1,6 @@
-<div align="center">
-<h1>Consulta de CEP em Java 🚀</h1> 
-</div>
-
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 
 **Consulta de CEP** é uma aplicação Java simples e poderosa que permite buscar endereços a partir de números de CEP utilizando a API pública do [ViaCEP](https://viacep.com.br/). Os resultados são exibidos de forma clara no terminal e salvos em arquivos `.json` lindamente formatados!
-
 ## ✨ Funcionalidades
 
 - 🔍 Busca de informações completas de CEP de todo o Brasil.
@@ -15,9 +10,6 @@
   - Java Records
   - Java HttpClient (Java 11+)
   - Gson para serialização JSON <br><br>
-<div align="center">
-<h1>🚀 Como usar</h1> 
-</div>
 
 ## 1. **Clone o repositório**
 
@@ -42,7 +34,6 @@ javac -cp ".;caminho/para/gson.jar" *.java
 
 java -cp ".;caminho/para/gson.jar" Principal
 <br><br>
-
 ## 💡 Exemplo de uso
 Insira o CEP desejado quando solicitado.
 
@@ -61,7 +52,6 @@ Além disso, será gerado automaticamente o arquivo 01310-000.json com os dados 
 ├── GeradorDeArquivo.java<br>
 └── Principal.java
 <br><br>
-
 ## 📦 Exemplo de saída (01310-000.json)
 
 {<br>
@@ -77,11 +67,7 @@ Além disso, será gerado automaticamente o arquivo 01310-000.json com os dados 
 - Biblioteca Gson<br>
 - API pública ViaCEP
 <br><br>
-## 🙏 Contribuição <br>
 Contribuições são muito bem-vindas! Sinta-se livre para abrir issues e pull requests com melhorias, sugestões ou bugs encontrados.
-<br><br>
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 <br><br>
 ## 👤 Autor
 
