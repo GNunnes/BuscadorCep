@@ -22,7 +22,5 @@ public class ConsultaCep {
         } catch (Exception e) {
             throw new RuntimeException("Não foi possível encontrar o endereço a partir deste CEP.");
         }
-
-
     }
 }
